@@ -50,7 +50,8 @@ Enterprise owners and billing managers can access and manage all billing setting
 {% data reusables.enterprise-accounts.settings-tab %}
 {% data reusables.enterprise-accounts.billing-tab %}
 4. Under "Quick Actions", click **View invoice**.
-  ![View invoice link](/assets/images/help/business-accounts/view-invoice-link.png)
+  ![View invoice link](/assets/images/help/business-accounts/view-invoice-li
+  nk.png)
 
 ### Paying your current invoice
 
@@ -68,7 +69,8 @@ Enterprise owners and billing managers can access and manage all billing setting
 {% data reusables.enterprise-accounts.settings-tab %}
 {% data reusables.enterprise-accounts.billing-tab %}
 4. Under "Quick Actions", click **Download current invoice**.
-  ![Download current invoice link](/assets/images/help/business-accounts/download-current-invoice.png)
+  ![Download current invoice link](/assets/images/help/business-accounts/download-current
+  -invoice.png)
 
 ### Viewing your payment history
 
